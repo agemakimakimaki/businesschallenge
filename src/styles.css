@@ -1,0 +1,7 @@
+/* Tailwind CSSを使用する場合、postcss+tailwind.config.jsが必要です */
+/* ここには、補足的なグローバルスタイルを書いてください。 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 追加のカスタムCSSはここに記述可能 */
